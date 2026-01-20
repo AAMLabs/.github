@@ -39,13 +39,13 @@ We believe that **software engineering** is about more than just generating code
 | **Mobile & Web** | React Native (Expo), Next.js, TypeScript, Tailwind CSS |
 | **Backend & API** | Node.js, NestJS, Python (FastAPI), GraphQL |
 | **DevOps & Infra** | AWS, Docker, Terraform, Ansible, GitHub Actions |
-| **Data & IoT** | PostgreSQL, Redis, MQTT, Industrial Protocols |
+| **Data & IoT** | PostgreSQL, Redis |
 
 ---
 
 <div align="center">
   <p>
-    <a href="https://aamlab.io">🌐 <b>Visit aamlab.io</b></a> &nbsp;|&nbsp;
+    <a href="https://www.aamaguelniski.com/aamlab">🌐 <b>Know more about aamlab</b></a> &nbsp;|&nbsp;
     <a href="mailto:hello@aamlab.io">📧 <b>Get in Touch</b></a>
   </p>
   <p><i>Established by Antonio Maguelniski</i></p>
